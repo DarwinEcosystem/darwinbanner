@@ -105,3 +105,5 @@ app = new App();
 $('.loader').hide();
 app.setup();
 ```
+
+#### [Copyright (c) 2015 Darwin Ecosystem LLC](http://www.darwineco.com)
