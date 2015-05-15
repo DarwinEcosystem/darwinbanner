@@ -4,7 +4,7 @@ The Darwin's Home Page Banner offers a visual reprentation for a current topic t
 
 <hr>
 
-# Example
+### Example
 
 ![Gif](https://raw.githubusercontent.com/DarwinEcosystem/darwinbanner/master/demo.gif)
 
